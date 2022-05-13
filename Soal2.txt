@@ -1,0 +1,9 @@
+1 . Sebutkan dan Jelaskan pengetahuan anda tentang tools database untuk cloud yang ada
+ketahui?
+
+Jawaban:
+		Database Cloud yang saya ketahui adalah AWS (Amazon Web Service) dimana penggunaannya kita harus memiliki akun yang terdaftar
+		untuk selanjutnya membuat Instance EC2 . Salah satu kelebihan AWS adalah memiliki virtual server yang dimana akan dipadukan dengan
+		web service sehingga menjadi tahapan Instance EC2. Dan langkah terakhir yaitu mengkoneksikan SSH ke virtual server yang sudah dibuatkan
+		sebelumnya.
+		Sesuai dengan moto yang dimiliki AWS adalah pay-as-you-go dan secara otomatis mengikuti demand yang dibutuhkan oleh pengguna.

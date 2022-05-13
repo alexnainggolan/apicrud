@@ -1,0 +1,5 @@
+1 . Jelaskan tentang Big Data dan tentang Nosql
+
+JAWABAN = Big data adalah Jumlah Data yang sangat banyak dan dapat ditemukan dalam bentuk terstruktur maupun tidak terstruktur biasanya digunakan untuk kegiatan bisnis.
+
+		Sedangkan No sql adalah pengolahan data tanpa relasi dan tidak memiliki skema tetap. 
